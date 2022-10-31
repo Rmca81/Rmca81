@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rmca81
+- 👋 Hi, I’m @Rmac81
 - 👀 I’m interested in Powershell, Python and I would like to learn about Postman.
 - 🌱 I’m currently learning about Microsoft Graph.
 - 💞️ I’m looking to collaborate on ...
